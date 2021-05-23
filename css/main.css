@@ -158,3 +158,19 @@ img {
     letter-spacing: 1px;
     opacity: 0.8;
 }
+
+.link-wrapper {
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+    -ms-align-items: center;
+    align-items: center;
+}
+
+.author {
+    color: #111;
+    font-size: 12px;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: 0.3s;
+}
